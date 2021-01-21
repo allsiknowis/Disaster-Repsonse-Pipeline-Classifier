@@ -32,25 +32,25 @@ Finally, a web app is utilized to display the model's results as well as provide
 * Web App: flask, plotly
 
 #### File Descriptions <a name="files"></a>
-ETL Preparation Notebook: A full walkthrough of the ETL pipeline creation and implementation.
+`ETL Preparation Notebook:` A full walkthrough of the ETL pipeline creation and implementation.
 
-ML Preparation Notebook: A full walkthrough of the ML pipeline creation and implementation. It can also be used to train more machine learning models on the data.
+`ML Preparation Notebook:` A full walkthrough of the ML pipeline creation and implementation. It can also be used to train more machine learning models on the data.
 
-app/templates/*: HTML template files for the web app
+`app/templates/*:` HTML template files for the web app
 
-app/run.py: Launches the Flask web app that uses data from the ETL and ML pipelines to display relevent information and allow users to input custom messages for classification.
+`app/run.py:` Launches the Flask web app that uses data from the ETL and ML pipelines to display relevent information and allow users to input custom messages for classification.
 
-data/process_data.py: ETL pipeline used for extracting features, data cleaning and transforming, and loading the data into a SQLite database
+`data/process_data.py:` ETL pipeline used for extracting features, data cleaning and transforming, and loading the data into a SQLite database
 
-data/DisasterResponse.db: The SQLite database created using process_data.py
+`data/DisasterResponse.db:` The SQLite database created using process_data.py
 
-data/disaster_categories.csv: The categories for the messages
+`data/disaster_categories.csv:` The categories for the messages
 
-data/disaster_messages.cv: The text-based messages
+`data/disaster_messages.cv:` The text-based messages
 
-models/train_classifier.py: A machine learning pipeline for loading cleaned data, training the model, and saving the trained model as a .pkl file for future use.
+`models/train_classifier.py:` A machine learning pipeline for loading cleaned data, training the model, and saving the trained model as a .pkl file for future use.
 
-models/disaster_model.pkl: the trained machine learning model
+`models/disaster_model.pkl:` the trained machine learning model
 
 
 ### Instructions <a name="instructions"></a>
