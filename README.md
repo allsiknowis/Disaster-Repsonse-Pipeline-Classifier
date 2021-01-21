@@ -3,7 +3,7 @@
 ### Table of Contents
 1. [Business Understanding](#description)
 2. [Data Understanding](#data)
-    i.  [Data Understanding](#data understanding)
+    i. [Data Understanding](#data understanding)
     ii. [File Descriptions](#files)
 3. [Instructions](#instructions)
 4. [Acknowledgements](#acknowledgements)
