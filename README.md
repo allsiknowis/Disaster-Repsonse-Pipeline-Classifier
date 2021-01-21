@@ -3,8 +3,8 @@
 ### Table of Contents
 1. [Description](#description)
 2. [Data](#data)
-        i. [Dependencies](#dependencies)
-        ii. [File Descriptions](#files)
+        1. [Dependencies](#dependencies)
+        2. [File Descriptions](#files)
 3. [Instructions](#instructions)
 4. [Acknowledgements](#acknowledgements)
 
