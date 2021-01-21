@@ -53,7 +53,7 @@ models/train_classifier.py: A machine learning pipeline for loading cleaned data
 models/disaster_model.pkl: the trained machine learning model
 
 
-#### Instructions <a name="instructions"></a>
+### Instructions <a name="instructions"></a>
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
