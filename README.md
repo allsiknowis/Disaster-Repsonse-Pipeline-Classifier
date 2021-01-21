@@ -2,10 +2,15 @@
 
 ### Table of Contents
 1. [Description](#description)
+
 2. [Data](#data)
-        i. [Dependencies](#dependencies)
-        ii. [File Descriptions](#files)
+
+    i. [Dependencies](#dependencies)
+        
+    ii. [File Descriptions](#files)
+        
 3. [Instructions](#instructions)
+
 4. [Acknowledgements](#acknowledgements)
 
 
