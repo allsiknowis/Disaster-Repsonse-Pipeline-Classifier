@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Disaster Response Pipeline Project with NLP
 
 ### Table of Contents
 1. [Description](#description)
